@@ -2,8 +2,8 @@
 
 Identifiers
 
-1. "activity": The type of activity
-2. "subject": The subject ID
+1) "activity": The type of activity
+2) "subject": The subject ID
 
 Activity column has 6 types as listed below.
 
